@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on A domain-specific programming language for algorithmic trading
 - 🤔 I’m looking for help with Making Java and (Neo)vim work together nicely
 - 💬 Ask me about How to do more with less clicks
-- 📫 How to reach me: me@yordan.io
+- 📫 How to reach me: me at yordan.io
 - 😄 Pronouns: he/him/his
 
 <!--
